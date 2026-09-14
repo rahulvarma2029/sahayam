@@ -74,7 +74,7 @@ const ProjectRoutes = () => {
 };
 ```
 
-## 🎨 Styling
+## 🎨 Styling.......................
 
 This project uses Tailwind CSS for styling. The configuration includes:
 
